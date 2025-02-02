@@ -1,0 +1,3 @@
+curl -o drivertbs.sh -L https://raw.githubusercontent.com/TalaveraSama/driver-tbs/main/drivertbs.sh
+chmod +x drivertbs.sh
+./drivertbs.sh
